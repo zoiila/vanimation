@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Vack Studio VAnimation</title>
+  <desc id="description">An original dark-violet VAnimation banner with a pink timeline and three geometric animation frames.</desc>
+  <defs>
+    <linearGradient id="panel"><stop stop-color="#31223e"/><stop offset="1" stop-color="#1e172b"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#c1a2e3"/><stop offset="1" stop-color="#F062B4"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="#17131e"/>
+  <rect x="28" y="28" width="1144" height="304" rx="10" fill="url(#panel)" stroke="#554169" stroke-width="2"/>
+  <rect x="72" y="77" width="9" height="31" fill="#F062B4"/>
+  <text x="99" y="101" fill="#d4b7ea" font-size="27" font-family="Arial,sans-serif" letter-spacing="3">VACK STUDIO | VANIMATION</text>
+  <text x="75" y="187" fill="#f6f0fc" font-size="68" font-weight="700" font-family="Arial,sans-serif">VAnimation</text>
+  <text x="78" y="233" fill="#c4b5d0" font-size="25" font-family="Arial,sans-serif">Shared animation orchestration</text>
+  <text x="78" y="278" fill="#d4b7ea" font-size="20" font-family="Arial,sans-serif">Timelines · Displays · Particles</text>
+  <rect x="78" y="301" width="142" height="5" rx="2" fill="url(#accent)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="3">
+    <path d="M852 255H1110" stroke="#554169"/>
+    <rect x="862" y="172" width="44" height="44" rx="5" transform="rotate(-16 884 194)" opacity=".45"/>
+    <rect x="945" y="149" width="58" height="58" rx="6" transform="rotate(12 974 178)" opacity=".7"/>
+    <rect x="1042" y="117" width="74" height="74" rx="8" transform="rotate(30 1079 154)"/>
+  </g>
+  <g fill="#F062B4"><circle cx="884" cy="255" r="5"/><circle cx="974" cy="255" r="5"/><circle cx="1079" cy="255" r="5"/></g>
+  <path d="M1069 140L1090 153L1069 166Z" fill="#f6f0fc"/>
+</svg>
